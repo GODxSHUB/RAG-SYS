@@ -1,0 +1,5 @@
+{
+  "name": "NeuroRag - Multimodal Context System",
+  "description": "A frontend-based RAG (Retrieval-Augmented Generation) system. Upload text, code, or images to create an instant knowledge base, and ask questions using Gemini's long-context capabilities.",
+  "requestFramePermissions": []
+}
